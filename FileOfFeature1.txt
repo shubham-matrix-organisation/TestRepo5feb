@@ -1,1 +1,3 @@
-shubham-feature2
+echo "Changes in feature-1" > test.txt  # This modifies the file completely
+git add test.txt
+git commit -m "Modified test.txt in feature-1"
