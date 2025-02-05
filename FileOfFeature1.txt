@@ -1,1 +1,3 @@
-shubham-feature2
+echo "This is a test file" > test.txt
+git add test.txt
+git commit -m "Initial commit with test.txt"
